@@ -22,11 +22,11 @@ Desktop.ini
 info.txt
 
 # Images (if containing personal photos)
-img/
-*.jpg
-*.jpeg
-*.png
-*.gif
+# img/
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
 
 # Backup Files
 *.bak
