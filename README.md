@@ -20,7 +20,7 @@ This site is automatically deployed to GitHub Pages using GitHub Actions. Any pu
 
 ## Local Development
 
-Simply open `index.html` in your web browser to view locally.
+Simply open `index.html` in your web browser to view locally. 
 
 ## Structure
 
